@@ -1,0 +1,60 @@
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.deps.json
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.pdb
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.AssemblyReference.cache
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfoInputs.cache
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfo.cs
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.CoreCompileInputs.cache
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\refint\OralData.Shared.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.pdb
+D:\OralData-Dev-Juanda\OralData\OralData.Shared\obj\Debug\net7.0\ref\OralData.Shared.dll
+E:\Oral_Data_Produccion\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.deps.json
+E:\Oral_Data_Produccion\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.AssemblyReference.cache
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfoInputs.cache
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfo.cs
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.CoreCompileInputs.cache
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\refint\OralData.Shared.dll
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\ref\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.deps.json
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.AssemblyReference.cache
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfoInputs.cache
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfo.cs
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.CoreCompileInputs.cache
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\refint\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion - copia\OralData\OralData.Shared\obj\Debug\net7.0\ref\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.deps.json
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.AssemblyReference.cache
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfoInputs.cache
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfo.cs
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.CoreCompileInputs.cache
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\refint\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Shared\obj\Debug\net7.0\ref\OralData.Shared.dll
+D:\Oral_Data_Produccion\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.deps.json
+D:\Oral_Data_Produccion\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.dll
+D:\Oral_Data_Produccion\OralData\OralData.Shared\bin\Debug\net7.0\OralData.Shared.pdb
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.AssemblyReference.cache
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfoInputs.cache
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.AssemblyInfo.cs
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.csproj.CoreCompileInputs.cache
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.dll
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\refint\OralData.Shared.dll
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\OralData.Shared.pdb
+D:\Oral_Data_Produccion\OralData\OralData.Shared\obj\Debug\net7.0\ref\OralData.Shared.dll

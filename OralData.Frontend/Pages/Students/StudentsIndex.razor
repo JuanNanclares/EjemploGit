@@ -1,0 +1,100 @@
+﻿@page "/students"
+@inject IRepository repository
+@inject NavigationManager navigationManager
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Admin")]
+
+<h3>Tipos de estudiante</h3>
+
+<GenericList MyList="students">
+    <NoRecords>
+        <p>Aún no hay tipos</p>
+    </NoRecords>
+    <Body>
+        <a class="btn btn-primary" href="/students/create">Nuevo Tipo de estudiante</a>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+
+                    <th>Tipos de estudiante</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var Student in students!)
+                {
+                    <tr>
+                        <td>
+                            @Student.Name
+                        </td>
+
+                        <td>
+                            <a class="btn btn-warning btn-sm" href="/students/StudentEdit/@Student.Id">Editar</a>
+                            <button class="btn btn-danger btn-sm" @onclick=@(() => DeleteAsync(Student))>Borrar</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </Body>
+</GenericList>
+
+@code {
+    public List<Student>? students;
+
+    protected async override Task OnInitializedAsync()
+    {
+        await LoadAsync();
+    }
+
+    private async Task LoadAsync()
+    {
+        var response = await repository.GetAsync<List<Student>>("api/students");
+        if (response.Error)
+        {
+            var message = await response.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", message, SweetAlertIcon.Error);
+            return;
+        }
+
+        students = response.Response;
+    }
+
+    private async Task DeleteAsync(Student Student)
+    {
+        var result = await sweetAlertService.FireAsync(new SweetAlertOptions
+            {
+                Title = "Confirmación",
+                Text = $"¿Esta seguro que quieres borrar la categoría: {Student.Name}?",
+                Icon = SweetAlertIcon.Question,
+                ShowCancelButton = true
+            });
+
+        var confirm = string.IsNullOrEmpty(result.Value);
+
+        if (confirm)
+        {
+            return;
+        }
+
+        var response = await repository.DeleteAsync($"api/students/{Student.Id}");
+
+        if (response.Error)
+        {
+            var mensajeError = await response.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", mensajeError, SweetAlertIcon.Error);
+            return;
+
+        }
+        await LoadAsync();
+
+        var toast = sweetAlertService.Mixin(new SweetAlertOptions
+            {
+                Toast = true,
+                Position = SweetAlertPosition.Center,
+                ShowConfirmButton = true,
+                Timer = 3000
+            });
+        await toast.FireAsync(icon: SweetAlertIcon.Success, message: "Registro borrado con exito ");
+    }
+}

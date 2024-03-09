@@ -1,0 +1,70 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">OralData</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Inicio
+            </NavLink>
+        </div>
+        <AuthorizeView Roles="Admin">
+            <Authorized>
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="/specialtie">
+                        <span class="oi oi-heart" aria-hidden="true"></span> Especialidades
+                    </NavLink>
+                </div>
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="/countries">
+                        <span class="oi oi-globe" aria-hidden="true"></span> Ciudades
+                    </NavLink>
+                </div>
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="/CourseEnrolled">
+                        <span class="oi oi-globe" aria-hidden="true"></span> Cursos
+                    </NavLink>
+                </div>
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="users">
+                        <span class="oi oi-people" aria-hidden="true"></span> Usuarios
+                    </NavLink>
+                </div>
+                <div class="nav-item px-3">
+
+                    <NavLink class="nav-link" href="/students">
+                        <span class="oi oi-person" aria-hidden="true"></span> Tipo de estudiante
+                    </NavLink>
+                </div>
+
+            </Authorized>
+        </AuthorizeView>
+        <AuthorizeView Roles="Patient">
+            <Authorized>
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="/classificationsurvey">
+                        <span class="oi oi-heart" aria-hidden="true"></span> Clasificación
+                    </NavLink>
+                </div>
+
+            </Authorized>
+        </AuthorizeView>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

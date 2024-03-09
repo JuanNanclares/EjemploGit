@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pages\CoursesEnrolled\CoursesEnrolledCreate.razor~RF11eb76.TMP" />
+    <None Remove="Pages\CoursesEnrolled\CoursesEnrolledEdit.razor~RF170e38.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Blazored.Modal" Version="7.1.0" />
+    <PackageReference Include="CurrieTechnologies.Razor.SweetAlert2" Version="5.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.13" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="7.0.13" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.13" PrivateAssets="all" />
+    <PackageReference Include="MudBlazor" Version="6.11.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OralData.Shared\OralData.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\Cities\CityCreate.razor" />
+    <None Include="Pages\Cities\CityEdit.razor" />
+    <None Include="Pages\Cities\CityForm.razor" />
+    <None Include="Pages\Counter.razor" />
+    <None Include="Pages\Countries\CountriesIndex.razor" />
+    <None Include="Pages\Countries\CountryCreate.razor" />
+    <None Include="Pages\Countries\CountryDetails.razor" />
+    <None Include="Pages\Countries\CountryEdit.razor" />
+    <None Include="Pages\Countries\CountryForm.razor" />
+    <None Include="Pages\CoursesEnrolled\CourseEnrolledForm.razor" />
+    <None Include="Pages\FetchData.razor" />
+    <None Include="Pages\Index.razor" />
+    <None Include="Pages\Specialties\SpecialtiesCreate.razor" />
+    <None Include="Pages\Specialties\SpecialtiesEdit.razor" />
+    <None Include="Pages\Specialties\SpecialtiesForm.razor" />
+    <None Include="Pages\Specialties\SpecialtiesIndex.razor" />
+    <None Include="Pages\States\StateCreate.razor" />
+    <None Include="Pages\States\StateDetails.razor" />
+    <None Include="Pages\States\StateEdit.razor" />
+    <None Include="Pages\States\StateForm.razor" />
+    <None Include="Pages\Students\StudentCreate.razor" />
+    <None Include="Pages\Students\StudentEdit.razor" />
+    <None Include="Pages\Students\StudentForm.razor" />
+    <None Include="Pages\Students\StudentsIndex.razor" />
+    <None Include="Shared\GenericList.razor" />
+    <None Include="Shared\Loading.razor" />
+    <None Include="Shared\MainLayout.razor" />
+    <None Include="Shared\NavMenu.razor" />
+    <None Include="Shared\Pagination.razor" />
+    <None Include="Shared\SurveyPrompt.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\CoursesEnrolled\CourseEnrolledForm.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\CoursesEnrolled\CourseEnrolledForm.razor" />
+  </ItemGroup>
+
+</Project>

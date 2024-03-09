@@ -1,0 +1,73 @@
+﻿@page "/students/StudentEdit/{Id:int}"
+@inject NavigationManager navigationManager
+@inject IRepository repository
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Admin")]
+
+<h3>Editar Tipo de estudiante</h3>
+
+@if (Student is null)
+{
+    <Loading />
+}
+else
+{
+    <StudentForm @ref="StudentForm" Student="Student" OnValidSubmit="SaveAsync" ReturnAction="Return" />
+}
+
+@code {
+    
+    private Student? Student;
+    private StudentForm? StudentForm;
+
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        var response = await repository.GetAsync<Student>($"api/students/{Id}");
+        if (response.Error)
+        {
+            if (response.HttpResponseMessage.StatusCode == System.Net.HttpStatusCode.NotFound)
+            {
+                Return();
+            }
+
+            var mensajeError = await response.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", mensajeError, SweetAlertIcon.Error);
+            return;
+        }
+        Student = response.Response;
+
+    }
+
+    private async Task SaveAsync()
+    {
+        var httpResponse = await repository.PutAsync($"api/students", Student);
+
+        if (httpResponse.Error)
+        {
+            var mensajeError = await httpResponse.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", mensajeError, SweetAlertIcon.Error);
+            return;
+        }
+
+        Return();
+        var toast = sweetAlertService.Mixin(new SweetAlertOptions
+            {
+                Toast = true,
+                Position = SweetAlertPosition.BottomEnd,
+                ShowConfirmButton = true,
+                Timer = 3000
+            });
+        await toast.FireAsync(icon: SweetAlertIcon.Success, message: "Cambios guardados con éxito");
+
+    }
+
+    private void Return()
+    {
+        StudentForm!.FormPostedSuccessfully = true;
+        navigationManager.NavigateTo("students");
+    }
+}

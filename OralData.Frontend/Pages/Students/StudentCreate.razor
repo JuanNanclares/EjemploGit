@@ -1,0 +1,47 @@
+﻿@page "/students/create"
+@inject NavigationManager navigationManager
+@inject IRepository repository
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Admin")]
+
+<h3>Crear tipo de estudiante</h3>
+
+<StudentForm @ref="studentForm" Student="student" OnValidSubmit="CreateAsync" ReturnAction="Return" />
+
+@code {
+    private Student student = new();
+    private StudentForm? studentForm;
+
+    private async Task CreateAsync()
+    {
+        var response = await repository.PostAsync("api/students", student);
+
+        if (response.Error)
+        {
+            var mensajeError = await response.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", mensajeError, SweetAlertIcon.Error);
+        }
+        else
+        {
+            studentForm!.FormPostedSuccessfully = true;
+            navigationManager.NavigateTo("students");
+        }
+
+
+        Return();
+        var toast = sweetAlertService.Mixin(new SweetAlertOptions
+            {
+                Toast = true,
+                Position = SweetAlertPosition.BottomEnd,
+                ShowConfirmButton = true,
+                Timer = 3000
+            });
+        await toast.FireAsync(icon: SweetAlertIcon.Success, message: "Registro creado con éxito");
+    }
+
+    private void Return()
+    {
+        studentForm!.FormPostedSuccessfully = true;
+        navigationManager.NavigateTo("students");
+    }
+}

@@ -1,0 +1,48 @@
+﻿@page "/CourseEnrolled/create"
+@inject NavigationManager navigationManager
+@inject IRepository repository
+@inject SweetAlertService sweetAlertService
+@attribute [Authorize(Roles = "Admin")]
+
+
+<h3>Crear curso</h3>
+
+<CourseEnrolledForm @ref="courseEnrolledForm" CourseEnrolled="courseEnrolled" OnValidSubmit="CreateAsync" ReturnAction="Return" />
+
+@code {
+    private CourseEnrolled courseEnrolled = new();
+    private CourseEnrolledForm? courseEnrolledForm;
+
+    private async Task CreateAsync()
+    {
+        var response = await repository.PostAsync("api/CourseEnrolled", courseEnrolled);
+
+        if (response.Error)
+        {
+            var mensajeError = await response.GetErrorMessageAsync();
+            await sweetAlertService.FireAsync("Error", mensajeError, SweetAlertIcon.Error);
+        }
+        else
+        {
+            courseEnrolledForm!.FormPostedSuccessfully = true;
+            navigationManager.NavigateTo("CourseEnrolled");
+        }
+
+
+        Return();
+        var toast = sweetAlertService.Mixin(new SweetAlertOptions
+            {
+                Toast = true,
+                Position = SweetAlertPosition.BottomEnd,
+                ShowConfirmButton = true,
+                Timer = 3000
+            });
+        await toast.FireAsync(icon: SweetAlertIcon.Success, message: "Registro creado con éxito");
+    }
+
+    private void Return()
+    {
+        courseEnrolledForm!.FormPostedSuccessfully = true;
+        navigationManager.NavigateTo("CourseEnrolled");
+    }
+}

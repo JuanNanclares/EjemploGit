@@ -1,0 +1,44 @@
+﻿@page "/specialtie/create"
+@inject NavigationManager navigationManager
+@inject IRepository repository
+@inject SweetAlertService sweetAlterService
+@attribute [Authorize(Roles = "Admin")]
+
+<h3>Nueva Especialidad</h3>
+
+<SpecialtiesForm @ref="specialtiesForm" Specialtie="specialtie" OnValidSubmit="CreateAsync" ReturnAction="Return" />
+
+@code {
+    private Specialtie specialtie = new();
+    private SpecialtiesForm? specialtiesForm;
+
+    [CascadingParameter]
+    BlazoredModalInstance BlazoredModal { get; set; } = default!;
+
+
+    private async Task CreateAsync()
+    {
+        var response = await repository.PostAsync("/api/specialtie", specialtie);
+        if (response.Error)
+        {
+            var message = await response.GetErrorMessageAsync();
+            await sweetAlterService.FireAsync("Error", message, SweetAlertIcon.Error);
+            return;
+        }
+        await BlazoredModal.CloseAsync(ModalResult.Ok());
+        Return();
+        var toast = sweetAlterService.Mixin(new SweetAlertOptions
+            {
+                Toast = true,
+                Position = SweetAlertPosition.BottomEnd,
+                ShowConfirmButton = true,
+                Timer = 3000
+            });
+        await toast.FireAsync(icon: SweetAlertIcon.Success, message: "Registro creado con éxito.");
+    }
+    private void Return()
+    {
+        specialtiesForm!.FormPostedSuccessfully = true;
+        navigationManager.NavigateTo("/specialtie");
+    }
+}

@@ -1,0 +1,217 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = OralData.Frontend
+build_property.RootNamespace = OralData.Frontend
+build_property.ProjectDir = D:\Oral_Data_Produccion\OralData\OralData.Frontend\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Oral_Data_Produccion\OralData\OralData.Frontend
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/ChangePassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxDaGFuZ2VQYXNzd29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/ConfirmEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxDb25maXJtRW1haWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/EditUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxFZGl0VXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/RecoverPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWNvdmVyUGFzc3dvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/RegisterPatient.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3RlclBhdGllbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/ResendConfirmationEmailToken.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZXNlbmRDb25maXJtYXRpb25FbWFpbFRva2VuLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/ResetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZXNldFBhc3N3b3JkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Auth/UserIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxVc2VySW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Cities/CityCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0aWVzXENpdHlDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Cities/CityEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0aWVzXENpdHlFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Cities/CityForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0aWVzXENpdHlGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/ClassificationSurveys/ClassificationSurvey.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3NpZmljYXRpb25TdXJ2ZXlzXENsYXNzaWZpY2F0aW9uU3VydmV5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Countries/CountriesIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cmllc0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Countries/CountryCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Countries/CountryDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Countries/CountryEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Countries/CountryForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/CoursesEnrolled/CourseEnrolledForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc0Vucm9sbGVkXENvdXJzZUVucm9sbGVkRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/CoursesEnrolled/CourseEnrolledIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc0Vucm9sbGVkXENvdXJzZUVucm9sbGVkSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/CoursesEnrolled/CoursesEnrolledCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc0Vucm9sbGVkXENvdXJzZXNFbnJvbGxlZENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/CoursesEnrolled/CoursesEnrolledEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc0Vucm9sbGVkXENvdXJzZXNFbnJvbGxlZEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Selecttypeofrecord/Selecttypeofrecord.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VsZWN0dHlwZW9mcmVjb3JkXFNlbGVjdHR5cGVvZnJlY29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Specialties/SpecialtiesCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BlY2lhbHRpZXNcU3BlY2lhbHRpZXNDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Specialties/SpecialtiesEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BlY2lhbHRpZXNcU3BlY2lhbHRpZXNFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Specialties/SpecialtiesForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BlY2lhbHRpZXNcU3BlY2lhbHRpZXNGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Specialties/SpecialtiesIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BlY2lhbHRpZXNcU3BlY2lhbHRpZXNJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/States/StateCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXFN0YXRlQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/States/StateDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXFN0YXRlRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/States/StateEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXFN0YXRlRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/States/StateForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXFN0YXRlRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Students/StudentCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcU3R1ZGVudENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Students/StudentEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcU3R1ZGVudEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Students/StudentForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcU3R1ZGVudEZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Pages/Students/StudentsIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcU3R1ZGVudHNJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Shared/AuthLinks.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEF1dGhMaW5rcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Shared/GenericList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEdlbmVyaWNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Shared/InputImg.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0SW1nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Shared/Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvYWRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Shared/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2luYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cg27diwapk
+
+[D:/Oral_Data_Produccion/OralData/OralData.Frontend/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rb44x0x0km

@@ -1,0 +1,465 @@
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.Development.json
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.json
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.exe
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.deps.json
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.runtimeconfig.json
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.pdb
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Core.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Identity.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Common.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Humanizer.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\MailKit.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\MimeKit.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.pdb
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.AssemblyReference.cache
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfoInputs.cache
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfo.cs
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CoreCompileInputs.cache
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.OralData.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.OralData.Backend.props
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OralData.Backend.props
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OralData.Backend.props
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\scopedcss\bundle\OralData.Backend.styles.css
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CopyComplete
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\refint\OralData.Backend.dll
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.pdb
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.genruntimeconfig.cache
+D:\OralData-Dev-Juanda\OralData\OralData.Backend\obj\Debug\net7.0\ref\OralData.Backend.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.Development.json
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.json
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.exe
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.deps.json
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.runtimeconfig.json
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.pdb
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Core.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Common.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Humanizer.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\MailKit.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\MimeKit.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.IO.Hashing.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.AssemblyReference.cache
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfoInputs.cache
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfo.cs
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CoreCompileInputs.cache
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.OralData.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.OralData.Backend.props
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OralData.Backend.props
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OralData.Backend.props
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\scopedcss\bundle\OralData.Backend.styles.css
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CopyComplete
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\refint\OralData.Backend.dll
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.pdb
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.genruntimeconfig.cache
+E:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\ref\OralData.Backend.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.Development.json
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.json
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.exe
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.deps.json
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.runtimeconfig.json
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.pdb
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Core.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Common.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Humanizer.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\MailKit.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\MimeKit.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.IO.Hashing.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.AssemblyReference.cache
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfoInputs.cache
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfo.cs
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CoreCompileInputs.cache
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.OralData.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.OralData.Backend.props
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OralData.Backend.props
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OralData.Backend.props
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\scopedcss\bundle\OralData.Backend.styles.css
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CopyComplete
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\refint\OralData.Backend.dll
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.pdb
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.genruntimeconfig.cache
+E:\Oral_Data_Produccion - copia\OralData\OralData.Backend\obj\Debug\net7.0\ref\OralData.Backend.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.Development.json
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.json
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.exe
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.deps.json
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.runtimeconfig.json
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.pdb
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Core.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Common.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Humanizer.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\MailKit.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\MimeKit.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.IO.Hashing.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.pdb
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.AssemblyReference.cache
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfoInputs.cache
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfo.cs
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CoreCompileInputs.cache
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.OralData.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.OralData.Backend.props
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OralData.Backend.props
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OralData.Backend.props
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\scopedcss\bundle\OralData.Backend.styles.css
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CopyComplete
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\refint\OralData.Backend.dll
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.pdb
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.genruntimeconfig.cache
+E:\Oral_Data_Produccion - copia2\OralData\OralData.Backend\obj\Debug\net7.0\ref\OralData.Backend.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.Development.json
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\appsettings.json
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.exe
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.deps.json
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.runtimeconfig.json
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Backend.pdb
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Core.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Identity.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Azure.Storage.Common.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Humanizer.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\MailKit.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\MimeKit.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\bin\Debug\net7.0\OralData.Shared.pdb
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.AssemblyReference.cache
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfoInputs.cache
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.AssemblyInfo.cs
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CoreCompileInputs.cache
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.OralData.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.OralData.Backend.props
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OralData.Backend.props
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OralData.Backend.props
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\scopedcss\bundle\OralData.Backend.styles.css
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.csproj.CopyComplete
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\refint\OralData.Backend.dll
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.pdb
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\OralData.Backend.genruntimeconfig.cache
+D:\Oral_Data_Produccion\OralData\OralData.Backend\obj\Debug\net7.0\ref\OralData.Backend.dll
